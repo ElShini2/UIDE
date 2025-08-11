@@ -2,7 +2,7 @@
 AUTHOR : ANDRES SALVADOR
 REGLAS DEL JUEGO
 Jugadores: El juego se juega contra el ordenador.
-Movimientos: Los jugadores cuentan juntos hasta tres y simultáneamente eligen una de las siguientes array_gameOptions: piedra, papel o tijera.
+Movimientos: Los jugadores eligen una de las siguientes array_gameOptions: piedra, papel o tijera.
 Determinar al ganador: Las reglas para determinar al ganador son las siguientes:
 Piedra gana a tijera: La piedra rompe la tijera.
 Tijera gana a papel: Las tijeras cortan el papel.
