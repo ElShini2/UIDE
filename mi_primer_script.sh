@@ -1,6 +1,6 @@
-cd/
+cd
 ls
-cd dev
+cd /dev
 ls
 cd /bin
 file ls
